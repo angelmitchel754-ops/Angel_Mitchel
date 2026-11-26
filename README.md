@@ -10,9 +10,9 @@ I build both sides of the web - clean frontends people enjoy using, and solid ba
 - Turning class projects into real, usable apps
 
 ## Tech Stack
-**Frontend:** HTML | CSS | JavaScript | React
-**Backend:** Python | Django | PHP | Java
-**Databases:** MySQL | SQLite | PostgreSQL
-**Tools:** Git | GitHub | VS Code | Postman
+- **Frontend:** HTML | CSS | JavaScript | React
+- **Backend:** Python | Django | PHP | Java
+- **Databases:** MySQL | SQLite | PostgreSQL
+- **Tools:** Git | GitHub | VS Code | Postman
 
 >"Junior now, but building like a senior-in-training."
